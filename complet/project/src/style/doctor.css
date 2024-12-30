@@ -1,0 +1,112 @@
+/* App.css */
+
+
+
+#chat-container {
+    width: 1200px;
+    margin-left: -50px;
+    margin-bottom: -50px;
+    padding: 20px;
+    background-color: #10b0ea;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(206, 202, 202, 0.1);
+}
+
+#chat-header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#chat-box {
+    height: 400px;
+    background-color: #000000;
+    color: white;
+    font-family: 'Times New Roman', serif;
+    font-size: 12pt;
+    padding: 10px;
+    overflow-y: scroll;
+    border-radius: 5px;
+    white-space: pre-line; /* Preserve line breaks */
+}
+
+#user-input {
+    width: calc(100% - 80px);
+    padding: 5px;
+    margin-top: 10px;
+    background-color: #1d1b1b;
+    color: white;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+}
+
+#send-button,
+#refresh-button,
+#list-button {
+    padding: 5px 15px;
+    margin-left: 10px;
+    color: white;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+#send-button {
+    background-color: #007ACC;
+}
+
+#refresh-button {
+    background-color: #ff6347;
+}
+
+#list-button {
+    background-color: #4caf50;
+}
+
+.user-message {
+    color: #fa73a9;
+    font-size: 22px;
+}
+
+.bot-message {
+    color: #b3b4b5;
+}
+
+.tablet-name {
+    color: #0bf78d;
+    font-size: 20px;
+}
+
+.details {
+    color: #0cf6df;
+}
+
+.dosage {
+    color: #9b59b6;
+}
+
+.side-effects {
+    color: #e74c3c;
+}
+
+.when_to_take {
+    color: #7f0a0a;
+    font-size: 18px;
+}
+
+.serial-no {
+    color: #ffeb3b;
+    font-size: 18px;
+}
+
+.serial-1no {
+    color: #e4e6e5;
+    font-size: 18px;
+    margin-right: 5px;
+}
+
+
+.nom {
+    display: flex;
+}

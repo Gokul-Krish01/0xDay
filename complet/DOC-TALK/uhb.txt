@@ -1,0 +1,586 @@
+,
+                "fever": {
+                    "tablets": {
+                        "Ibuprofen": {
+                            "details": "Ibuprofen is a nonsteroidal anti-inflammatory drug (NSAID) used to relieve pain and reduce fever.",
+                            "dosage": "Take 1 tablet every 6-8 hours as needed. Do not exceed 3.2g (6 tablets) per day.",
+                            "side_effects": "Common side effects may include stomach pain, heartburn, or dizziness."
+                        },
+                        "Acetaminophen": {
+                            "details": "Acetaminophen is used to relieve mild to moderate pain and reduce fever.",
+                            "dosage": "Take 1-2 tablets every 4-6 hours as needed. Do not exceed 4g (8 tablets) per day.",
+                            "side_effects": "Common side effects may include nausea, loss of appetite, or rash."
+                        }
+                    },
+                    "details": "Rest, drink plenty of fluids, and take fever-reducing medication."
+                },
+                "headache": {
+                    "tablets": {
+                        "Ibuprofen": {
+                            "details": "Ibuprofen is a nonsteroidal anti-inflammatory drug (NSAID) used to relieve pain and reduce inflammation.",
+                            "dosage": "Take 1 tablet every 4-6 hours as needed. Do not exceed 6 tablets per day.",
+                            "side_effects": "Common side effects may include upset stomach, heartburn, or dizziness."
+                        },
+                        "Acetaminophen": {
+                            "details": "Acetaminophen is a pain reliever and fever reducer.",
+                            "dosage": "Take 1 or 2 tablets every 4-6 hours as needed. Do not exceed 4g (8 tablets) per day.",
+                            "side_effects": "Common side effects may include liver damage, especially with high doses or long-term use."
+                        }
+                    },
+                    "details": "Rest in a quiet, dark room and avoid bright lights and loud noises. Over-the-counter pain relievers may help."
+                },
+                "flu": {
+                    "tablets": {
+                        "Oseltamivir": {
+                            "details": "Oseltamivir is an antiviral medication used to treat influenza (flu) infections.",
+                            "dosage": "Take 1 tablet twice daily for 5 days.",
+                            "side_effects": "Common side effects may include nausea, vomiting, or diarrhea."
+                        },
+                        "Zanamivir": {
+                            "details": "Zanamivir is an antiviral medication used to treat and prevent influenza (flu) infections.",
+                            "dosage": "Inhale 2 inhalations (10 mg) twice daily for 5 days using a special inhaler device.",
+                            "side_effects": "Common side effects may include headache, dizziness, or cough."
+                        }
+                    },
+                    "details": "Rest, drink plenty of fluids, and take over-the-counter flu remedies. Antiviral medications may help shorten the duration of symptoms."
+                },
+                "allergy": {
+                    "tablets": {
+                        "Loratadine": {
+                            "details": "Loratadine is an antihistamine used to relieve symptoms of allergy, such as sneezing, runny nose, and itching.",
+                            "dosage": "Take 1 tablet daily as needed.",
+                            "side_effects": "Common side effects may include headache, dry mouth, or drowsiness."
+                        },
+                        "Cetirizine": {
+                            "details": "Cetirizine is an antihistamine used to relieve symptoms of allergy, such as sneezing, runny nose, and itching.",
+                            "dosage": "Take 1 tablet daily as needed.",
+                            "side_effects": "Common side effects may include drowsiness, dry mouth, or headache."
+                        }
+                    },
+                    "details": "Avoid allergens whenever possible. Antihistamines may help relieve symptoms."
+                },
+                "asthma": {
+                    "tablets": {
+                        "Albuterol": {
+                            "details": "Albuterol is a bronchodilator used to relieve bronchospasm in conditions such as asthma and chronic obstructive pulmonary disease (COPD).",
+                            "dosage": "Take 1 or 2 inhalations every 4-6 hours as needed.",
+                            "side_effects": "Common side effects may include headache, tremor, or palpitations."
+                        },
+                        "Fluticasone": {
+                            "details": "Fluticasone is a corticosteroid used to prevent asthma attacks and treat symptoms such as wheezing and shortness of breath.",
+                            "dosage": "Take 2 inhalations twice daily.",
+                            "side_effects": "Common side effects may include sore throat, hoarseness, or thrush."
+                        }
+                    },
+                    "details": "Avoid triggers that can worsen asthma symptoms, such as smoke, dust, and pollen. Use inhalers as prescribed by a doctor."
+                },
+                "hypertension": {
+                    "tablets": {
+                        "Lisinopril": {
+                            "details": "Lisinopril is an angiotensin-converting enzyme (ACE) inhibitor used to treat high blood pressure and heart failure.",
+                            "dosage": "Take 1 tablet daily.",
+                            "side_effects": "Common side effects may include dizziness, headache, or dry cough."
+                        },
+                        "Amlodipine": {
+                            "details": "Amlodipine is a calcium channel blocker used to treat high blood pressure and chest pain (angina).",
+                            "dosage": "Take 1 tablet daily.",
+                            "side_effects": "Common side effects may include swelling of the ankles, dizziness, or flushing."
+                        }
+                    },
+                    "details": "Monitor blood pressure regularly. Maintain a healthy diet, exercise regularly, and avoid smoking and excessive alcohol consumption."
+                },
+                "diabetes": {
+                    "tablets": {
+                        "Metformin": {
+                            "details": "Metformin is a biguanide antidiabetic medication used to treat type 2 diabetes.",
+                            "dosage": "Take 1 tablet twice daily with meals.",
+                            "side_effects": "Common side effects may include nausea, diarrhea, or abdominal discomfort."
+                        },
+                        "Gliclazide": {
+                            "details": "Gliclazide is a sulfonylurea antidiabetic medication used to treat type 2 diabetes.",
+                            "dosage": "Take 1 tablet daily with breakfast.",
+                            "side_effects": "Common side effects may include hypoglycemia (low blood sugar), weight gain, or gastrointestinal upset."
+                        }
+                    },
+                    "details": "Monitor blood sugar levels regularly. Follow a healthy diet, exercise regularly, and take medication as prescribed by a doctor."
+                },
+                "acid reflux": {
+                    "tablets": {
+                        "Omeprazole": {
+                            "details": "Omeprazole is a proton pump inhibitor (PPI) used to reduce stomach acid production and treat conditions such as heartburn and gastroesophageal reflux disease (GERD).",
+                            "dosage": "Take 1 tablet daily before breakfast.",
+                            "side_effects": "Common side effects may include headache, diarrhea, or abdominal pain."
+                        },
+                        "Ranitidine": {
+                            "details": "Ranitidine is an H2 receptor antagonist used to reduce stomach acid production and treat conditions such as heartburn and GERD.",
+                            "dosage": "Take 1 tablet twice daily before meals.",
+                            "side_effects": "Common side effects may include headache, dizziness, or constipation."
+                        }
+                    },
+                    "details": "Avoid trigger foods that can worsen symptoms, such as spicy or fatty foods. Eat smaller meals and avoid lying down after eating."
+                },
+                "migraine": {
+                    "tablets": {
+                        "Sumatriptan": {
+                            "details": "Sumatriptan is a serotonin receptor agonist used to relieve migraine headaches.",
+                            "dosage": "Take 1 tablet at the onset of a migraine attack. If symptoms persist, a second dose may be taken after 2 hours.",
+                            "side_effects": "Common side effects may include chest tightness, flushing, or tingling sensations."
+                        },
+                        "Propranolol": {
+                            "details": "Propranolol is a beta-blocker used to prevent migraine headaches.",
+                            "dosage": "Take 1 tablet twice daily.",
+                            "side_effects": "Common side effects may include fatigue, dizziness, or slow heart rate."
+                        }
+                    },
+                    "details": "Identify and avoid triggers that can precipitate migraine attacks, such as certain foods, stress, or hormonal changes."
+                },
+                "insomnia": {
+                    "tablets": {
+                        "Zolpidem": {
+                            "details": "Zolpidem is a sedative-hypnotic medication used to treat insomnia.",
+                            "dosage": "Take 1 tablet at bedtime as needed.",
+                            "side_effects": "Common side effects may include drowsiness, dizziness, or headache."
+                        },
+                        "Diphenhydramine": {
+                            "details": "Diphenhydramine is an antihistamine with sedative properties used to treat insomnia.",
+                            "dosage": "Take 1 tablet at bedtime as needed.",
+                            "side_effects": "Common side effects may include dry mouth, drowsiness, or blurred vision."
+                        }
+                    },
+                    "details": "Practice good sleep hygiene, such as maintaining a regular sleep schedule, avoiding caffeine and electronics before bedtime, and creating a comfortable sleep environment."
+                },
+                "anxiety": {
+                    "tablets": {
+                        "Alprazolam": {
+                            "details": "Alprazolam is a benzodiazepine medication used to treat anxiety and panic disorders.",
+                            "dosage": "Take 0.25-0.5 mg 3 times daily as needed.",
+                            "side_effects": "Common side effects may include drowsiness, dizziness, or blurred vision."
+                        },
+                        "Buspirone": {
+                            "details": "Buspirone is an anxiolytic medication used to treat generalized anxiety disorder.",
+                            "dosage": "Take 5-10 mg 2-3 times daily.",
+                            "side_effects": "Common side effects may include dizziness, headache, or nausea."
+                        }
+                    },
+                    "details": "Practice relaxation techniques, such as deep breathing and mindfulness meditation. Seek support from a therapist or counselor."
+                },
+                "depression": {
+                    "tablets": {
+                        "Sertraline": {
+                            "details": "Sertraline is a selective serotonin reuptake inhibitor (SSRI) antidepressant used to treat depression and anxiety disorders.",
+                            "dosage": "Take 50-200 mg once daily.",
+                            "side_effects": "Common side effects may include nausea, diarrhea, or insomnia."
+                        },
+                        "Bupropion": {
+                            "details": "Bupropion is an atypical antidepressant used to treat depression and seasonal affective disorder.",
+                            "dosage": "Take 150-300 mg once daily.",
+                            "side_effects": "Common side effects may include dry mouth, insomnia, or agitation."
+                        }
+                    },
+                    "details": "Engage in regular physical activity, maintain a healthy diet, and seek support from friends, family, or a therapist."
+                },
+                "gastroenteritis": {
+                    "tablets": {
+                        "Loperamide": {
+                            "details": "Loperamide is an antidiarrheal medication used to treat diarrhea.",
+                            "dosage": "Take 4 mg initially, then 2 mg after each loose stool. Do not exceed 16 mg per day.",
+                            "side_effects": "Common side effects may include constipation, abdominal cramps, or dizziness."
+                        },
+                        "Ondansetron": {
+                            "details": "Ondansetron is an antiemetic medication used to treat nausea and vomiting.",
+                            "dosage": "Take 4-8 mg 3 times daily as needed.",
+                            "side_effects": "Common side effects may include headache, constipation, or dizziness."
+                        }
+                    },
+                    "details": "Stay hydrated by drinking clear fluids and electrolyte solutions. Avoid solid foods until vomiting and diarrhea have subsided."
+                },
+                "conjunctivitis": {
+                    "tablets": {
+                        "Olopatadine": {
+                            "details": "Olopatadine is an antihistamine and mast cell stabilizer used to treat allergic conjunctivitis.",
+                            "dosage": "Instill 1 drop in each affected eye twice daily.",
+                            "side_effects": "Common side effects may include burning or stinging in the eyes."
+                        },
+                        "Ofloxacin": {
+                            "details": "Ofloxacin is an antibiotic eye drop used to treat bacterial conjunctivitis.",
+                            "dosage": "Instill 1-2 drops in each affected eye 4 times daily for 7 days.",
+                            "side_effects": "Common side effects may include eye irritation, itching, or redness."
+                        }
+                    },
+                    "details": "Avoid rubbing the eyes. Practice good hygiene, such as washing hands frequently and avoiding sharing towels or pillows."
+                },
+                "hypothyroidism": {
+                    "tablets": {
+                        "Levothyroxine": {
+                            "details": "Levothyroxine is a synthetic thyroid hormone used to treat hypothyroidism.",
+                            "dosage": "Take 1 tablet daily on an empty stomach, preferably 30 minutes before breakfast.",
+                            "side_effects": "Common side effects may include weight loss, tremors, or palpitations."
+                        },
+                        "Liothyronine": {
+                            "details": "Liothyronine is a synthetic thyroid hormone used to treat hypothyroidism.",
+                            "dosage": "Take 1 tablet daily, divided into 2 or 3 doses.",
+                            "side_effects": "Common side effects may include sweating, increased heart rate, or diarrhea."
+                        }
+                    },
+                    "details": "Take medication as prescribed by a doctor. Follow up regularly for thyroid function tests and adjust medication dosage if necessary."
+                },
+                "urinary tract infection": {
+                    "tablets": {
+                        "Nitrofurantoin": {
+                            "details": "Nitrofurantoin is an antibiotic used to treat urinary tract infections (UTIs).",
+                            "dosage": "Take 100 mg 4 times daily for 7 days.",
+                            "side_effects": "Common side effects may include nausea, vomiting, or diarrhea."
+                        },
+                        "Ciprofloxacin": {
+                            "details": "Ciprofloxacin is a broad-spectrum antibiotic used to treat UTIs caused by certain bacteria.",
+                            "dosage": "Take 250-500 mg twice daily for 3 days.",
+                            "side_effects": "Common side effects may include nausea, diarrhea, or headache."
+                        }
+                    },
+                    "details": "Drink plenty of water to flush out bacteria from the urinary tract. Take medication as prescribed by a doctor."
+                },
+                "hypertension": {
+                    "tablets": {
+                        "Lisinopril": {
+                            "details": "Lisinopril is an angiotensin-converting enzyme (ACE) inhibitor used to treat high blood pressure and heart failure.",
+                            "dosage": "Take 1 tablet daily.",
+                            "side_effects": "Common side effects may include dizziness, headache, or dry cough."
+                        },
+                        "Amlodipine": {
+                            "details": "Amlodipine is a calcium channel blocker used to treat high blood pressure and chest pain (angina).",
+                            "dosage": "Take 1 tablet daily.",
+                            "side_effects": "Common side effects may include swelling of the ankles, dizziness, or flushing."
+                        }
+                    },
+                    "details": "Monitor blood pressure regularly. Maintain a healthy diet, exercise regularly, and avoid smoking and excessive alcohol consumption."
+                },
+                "diabetes": {
+                    "tablets": {
+                        "Metformin": {
+                            "details": "Metformin is a biguanide antidiabetic medication used to treat type 2 diabetes.",
+                            "dosage": "Take 1 tablet twice daily with meals.",
+                            "side_effects": "Common side effects may include nausea, diarrhea, or abdominal discomfort."
+                        },
+                        "Gliclazide": {
+                            "details": "Gliclazide is a sulfonylurea antidiabetic medication used to treat type 2 diabetes.",
+                            "dosage": "Take 1 tablet daily with breakfast.",
+                            "side_effects": "Common side effects may include hypoglycemia (low blood sugar), weight gain, or gastrointestinal upset."
+                        }
+                    },
+                    "details": "Monitor blood sugar levels regularly. Follow a healthy diet, exercise regularly, and take medication as prescribed by a doctor."
+                },
+                "acid reflux": {
+                    "tablets": {
+                        "Omeprazole": {
+                            "details": "Omeprazole is a proton pump inhibitor (PPI) used to reduce stomach acid production and treat conditions such as heartburn and gastroesophageal reflux disease (GERD).",
+                            "dosage": "Take 1 tablet daily before breakfast.",
+                            "side_effects": "Common side effects may include headache, diarrhea, or abdominal pain."
+                        },
+                        "Ranitidine": {
+                            "details": "Ranitidine is an H2 receptor antagonist used to reduce stomach acid production and treat conditions such as heartburn and GERD.",
+                            "dosage": "Take 1 tablet twice daily before meals.",
+                            "side_effects": "Common side effects may include headache, dizziness, or constipation."
+                        }
+                    },
+                    "details": "Avoid trigger foods that can worsen symptoms, such as spicy or fatty foods. Eat smaller meals and avoid lying down after eating."
+                },
+                "migraine": {
+                    "tablets": {
+                        "Sumatriptan": {
+                            "details": "Sumatriptan is a serotonin receptor agonist used to relieve migraine headaches.",
+                            "dosage": "Take 1 tablet at the onset of a migraine attack. If symptoms persist, a second dose may be taken after 2 hours.",
+                            "side_effects": "Common side effects may include chest tightness, flushing, or tingling sensations."
+                        },
+                        "Propranolol": {
+                            "details": "Propranolol is a beta-blocker used to prevent migraine headaches.",
+                            "dosage": "Take 1 tablet twice daily.",
+                            "side_effects": "Common side effects may include fatigue, dizziness, or slow heart rate."
+                        }
+                    },
+                    "details": "Identify and avoid triggers that can precipitate migraine attacks, such as certain foods, stress, or hormonal changes."
+                },
+                "insomnia": {
+                    "tablets": {
+                        "Zolpidem": {
+                            "details": "Zolpidem is a sedative-hypnotic medication used to treat insomnia.",
+                            "dosage": "Take 1 tablet at bedtime as needed.",
+                            "side_effects": "Common side effects may include drowsiness, dizziness, or headache."
+                        },
+                        "Diphenhydramine": {
+                            "details": "Diphenhydramine is an antihistamine with sedative properties used to treat insomnia.",
+                            "dosage": "Take 1 tablet at bedtime as needed.",
+                            "side_effects": "Common side effects may include dry mouth, drowsiness, or blurred vision."
+                        }
+                    },
+                    "details": "Practice good sleep hygiene, such as maintaining a regular sleep schedule, avoiding caffeine and electronics before bedtime, and creating a comfortable sleep environment."
+                },
+                "anxiety": {
+                    "tablets": {
+                        "Alprazolam": {
+                            "details": "Alprazolam is a benzodiazepine medication used to treat anxiety and panic disorders.",
+                            "dosage": "Take 0.25-0.5 mg 3 times daily as needed.",
+                            "side_effects": "Common side effects may include drowsiness, dizziness, or blurred vision."
+                        },
+                        "Buspirone": {
+                            "details": "Buspirone is an anxiolytic medication used to treat generalized anxiety disorder.",
+                            "dosage": "Take 5-10 mg 2-3 times daily.",
+                            "side_effects": "Common side effects may include dizziness, headache, or nausea."
+                        }
+                    },
+                    "details": "Practice relaxation techniques, such as deep breathing and mindfulness meditation. Seek support from a therapist or counselor."
+                },
+                "depression": {
+                    "tablets": {
+                        "Sertraline": {
+                            "details": "Sertraline is a selective serotonin reuptake inhibitor (SSRI) antidepressant used to treat depression and anxiety disorders.",
+                            "dosage": "Take 50-200 mg once daily.",
+                            "side_effects": "Common side effects may include nausea, diarrhea, or insomnia."
+                        },
+                        "Bupropion": {
+                            "details": "Bupropion is an atypical antidepressant used to treat depression and seasonal affective disorder.",
+                            "dosage": "Take 150-300 mg once daily.",
+                            "side_effects": "Common side effects may include dry mouth, insomnia, or agitation."
+                        }
+                    },
+                    "details": "Engage in regular physical activity, maintain a healthy diet, and seek support from friends, family, or a therapist."
+                },
+                "gastroenteritis": {
+                    "tablets": {
+                        "Loperamide": {
+                            "details": "Loperamide is an antidiarrheal medication used to treat diarrhea.",
+                            "dosage": "Take 4 mg initially, then 2 mg after each loose stool. Do not exceed 16 mg per day.",
+                            "side_effects": "Common side effects may include constipation, abdominal cramps, or dizziness."
+                        },
+                        "Ondansetron": {
+                            "details": "Ondansetron is an antiemetic medication used to treat nausea and vomiting.",
+                            "dosage": "Take 4-8 mg 3 times daily as needed.",
+                            "side_effects": "Common side effects may include headache, constipation, or dizziness."
+                        }
+                    },
+                    "details": "Stay hydrated by drinking clear fluids and electrolyte solutions. Avoid solid foods until vomiting and diarrhea have subsided."
+                },
+                "conjunctivitis": {
+                    "tablets": {
+                        "Olopatadine": {
+                            "details": "Olopatadine is an antihistamine and mast cell stabilizer used to treat allergic conjunctivitis.",
+                            "dosage": "Instill 1 drop in each affected eye twice daily.",
+                            "side_effects": "Common side effects may include burning or stinging in the eyes."
+                        },
+                        "Ofloxacin": {
+                            "details": "Ofloxacin is an antibiotic eye drop used to treat bacterial conjunctivitis.",
+                            "dosage": "Instill 1-2 drops in each affected eye 4 times daily for 7 days.",
+                            "side_effects": "Common side effects may include eye irritation, itching, or redness."
+                        }
+                    },
+                    "details": "Avoid rubbing the eyes. Practice good hygiene, such as washing hands frequently and avoiding sharing towels or pillows."
+                },
+                "hypothyroidism": {
+                    "tablets": {
+                        "Levothyroxine": {
+                            "details": "Levothyroxine is a synthetic thyroid hormone used to treat hypothyroidism.",
+                            "dosage": "Take 1 tablet daily on an empty stomach, preferably 30 minutes before breakfast.",
+                            "side_effects": "Common side effects may include weight loss, tremors, or palpitations."
+                        },
+                        "Liothyronine": {
+                            "details": "Liothyronine is a synthetic thyroid hormone used to treat hypothyroidism.",
+                            "dosage": "Take 1 tablet daily, divided into 2 or 3 doses.",
+                            "side_effects": "Common side effects may include sweating, increased heart rate, or diarrhea."
+                        }
+                    },
+                    "details": "Take medication as prescribed by a doctor. Follow up regularly for thyroid function tests and adjust medication dosage if necessary."
+                },
+                "urinary tract infection": {
+                    "tablets": {
+                        "Nitrofurantoin": {
+                            "details": "Nitrofurantoin is an antibiotic used to treat urinary tract infections (UTIs).",
+                            "dosage": "Take 100 mg 4 times daily for 7 days.",
+                            "side_effects": "Common side effects may include nausea, vomiting, or diarrhea."
+                        },
+                        "Ciprofloxacin": {
+                            "details": "Ciprofloxacin is a broad-spectrum antibiotic used to treat UTIs caused by certain bacteria.",
+                            "dosage": "Take 250-500 mg twice daily for 3 days.",
+                            "side_effects": "Common side effects may include nausea, diarrhea, or headache."
+                        }
+                    },
+                    "details": "Drink plenty of water to flush out bacteria from the urinary tract. Take medication as prescribed by a doctor."
+                },
+                "constipation": {
+                    "tablets": {
+                        "Psyllium": {
+                            "details": "Psyllium is a bulk-forming fiber laxative used to treat constipation.",
+                            "dosage": "Take 1 tablespoon mixed with 8 ounces of water once daily.",
+                            "side_effects": "Common side effects may include bloating, gas, or stomach cramps."
+                        },
+                        "Docusate": {
+                            "details": "Docusate is a stool softener used to treat constipation.",
+                            "dosage": "Take 100 mg 1-4 times daily as needed.",
+                            "side_effects": "Common side effects may include diarrhea, stomach cramps, or throat irritation."
+                        }
+                    },
+                    "details": "Increase fiber intake by eating more fruits, vegetables, and whole grains. Drink plenty of water and engage in regular physical activity."
+                },
+                "diarrhea": {
+                    "tablets": {
+                        "Loperamide": {
+                            "details": "Loperamide is an antidiarrheal medication used to treat acute and chronic diarrhea.",
+                            "dosage": "Take 4 mg initially, then 2 mg after each loose stool. Do not exceed 16 mg per day.",
+                            "side_effects": "Common side effects may include constipation, abdominal cramps, or dizziness."
+                        },
+                        "Bismuth subsalicylate": {
+                            "details": "Bismuth subsalicylate is an antidiarrheal medication used to treat traveler's diarrhea and mild diarrhea.",
+                            "dosage": "Take 2 tablets or 30 mL of liquid every 30 minutes as needed, up to 8 doses per day.",
+                            "side_effects": "Common side effects may include darkening of the tongue or stool, constipation, or ringing in the ears."
+                        }
+                    },
+                    "details": "Stay hydrated by drinking clear fluids and electrolyte solutions. Avoid solid foods until diarrhea has subsided."
+                },
+                "heartburn": {
+                    "tablets": {
+                        "Antacids": {
+                            "details": "Antacids are over-the-counter medications used to neutralize stomach acid and relieve heartburn, indigestion, and sour stomach.",
+                            "dosage": "Chew 1-2 tablets as needed, up to 4 times daily.",
+                            "side_effects": "Common side effects may include constipation or diarrhea, depending on the type of antacid."
+                        },
+                        "H2 blockers": {
+                            "details": "H2 blockers are medications that reduce the production of stomach acid and are used to treat heartburn, acid reflux, and ulcers.",
+                            "dosage": "Take 1 tablet 30 minutes before eating or at bedtime as needed.",
+                            "side_effects": "Common side effects may include headache, dizziness, or diarrhea."
+                        }
+                    },
+                    "details": "Avoid trigger foods that can worsen symptoms, such as spicy or acidic foods. Eat smaller meals and avoid lying down after eating."
+                },
+                "hyperthyroidism": {
+                    "tablets": {
+                        "Methimazole": {
+                            "details": "Methimazole is an antithyroid medication used to treat hyperthyroidism by inhibiting the production of thyroid hormones.",
+                            "dosage": "Take 10-40 mg divided into 2 or 3 doses daily.",
+                            "side_effects": "Common side effects may include nausea, vomiting, or rash."
+                        },
+                        "Propranolol": {
+                            "details": "Propranolol is a beta-blocker medication used to manage symptoms of hyperthyroidism, such as rapid heart rate and tremors.",
+                            "dosage": "Take 10-40 mg 3-4 times daily.",
+                            "side_effects": "Common side effects may include fatigue, dizziness, or low blood pressure."
+                        }
+                    },
+                    "details": "Take medication as prescribed by a doctor. Follow up regularly for thyroid function tests and adjust medication dosage if necessary."
+                },
+                "anemia": {
+                    "tablets": {
+                        "Iron supplements": {
+                            "details": "Iron supplements are used to treat iron deficiency anemia by increasing the body's iron stores.",
+                            "dosage": "Take 65-325 mg daily with food.",
+                            "side_effects": "Common side effects may include constipation, diarrhea, or nausea."
+                        },
+                        "Vitamin B12 supplements": {
+                            "details": "Vitamin B12 supplements are used to treat megaloblastic anemia caused by vitamin B12 deficiency.",
+                            "dosage": "Take 1000 mcg daily by mouth or as directed by a doctor.",
+                            "side_effects": "Common side effects may include injection site reactions (for injectable forms) or diarrhea."
+                        }
+                    },
+                    "details": "Eat a diet rich in iron and vitamin C to enhance iron absorption. Follow up with a doctor for regular blood tests and monitoring."
+                },
+                "pneumonia": {
+                    "tablets": {
+                        "Amoxicillin": {
+                            "details": "Amoxicillin is a broad-spectrum antibiotic used to treat bacterial pneumonia.",
+                            "dosage": "Take 500 mg 3 times daily for 7-10 days.",
+                            "side_effects": "Common side effects may include nausea, vomiting, or diarrhea."
+                        },
+                        "Azithromycin": {
+                            "details": "Azithromycin is a macrolide antibiotic used to treat bacterial pneumonia.",
+                            "dosage": "Take 500 mg once daily for 3 days, then 250 mg once daily for 4 days.",
+                            "side_effects": "Common side effects may include nausea, diarrhea, or abdominal pain."
+                        }
+                    },
+                    "details": "Rest, drink plenty of fluids, and take antibiotics as prescribed by a doctor. Follow up for chest x-rays and monitoring of symptoms."
+                },
+                "bronchitis": {
+                    "tablets": {
+                        "Amoxicillin": {
+                            "details": "Amoxicillin is a broad-spectrum antibiotic used to treat bacterial bronchitis.",
+                            "dosage": "Take 500 mg 3 times daily for 7-10 days.",
+                            "side_effects": "Common side effects may include nausea, vomiting, or diarrhea."
+                        },
+                        "Dextromethorphan": {
+                            "details": "Dextromethorphan is a cough suppressant used to relieve cough associated with bronchitis.",
+                            "dosage": "Take 10-20 mg every 4 hours as needed.",
+                            "side_effects": "Common side effects may include dizziness, drowsiness, or upset stomach."
+                        }
+                    },
+                    "details": "Rest, drink plenty of fluids, and take over-the-counter cough suppressants as needed. Antibiotics may be prescribed for bacterial infections."
+                },
+                "gout": {
+                    "tablets": {
+                        "Colchicine": {
+                            "details": "Colchicine is a medication used to treat acute gout attacks and prevent recurrent attacks.",
+                            "dosage": "Take 1.2 mg initially, then 0.6 mg 1 hour later. Do not exceed 1.8 mg in 1 hour or 2.4 mg in 24 hours.",
+                            "side_effects": "Common side effects may include nausea, vomiting, or diarrhea."
+                        },
+                        "Allopurinol": {
+                            "details": "Allopurinol is a xanthine oxidase inhibitor used to prevent gout attacks by reducing uric acid levels in the blood.",
+                            "dosage": "Take 100-800 mg once daily.",
+                            "side_effects": "Common side effects may include rash, nausea, or liver toxicity."
+                        }
+                    },
+                    "details": "Avoid trigger foods high in purines, such as red meat, organ meats, and shellfish. Stay hydrated and limit alcohol consumption."
+                },
+                "osteoarthritis": {
+                    "tablets": {
+                        "Acetaminophen": {
+                            "details": "Acetaminophen is a pain reliever and fever reducer used to treat osteoarthritis pain.",
+                            "dosage": "Take 500-1000 mg every 4-6 hours as needed. Do not exceed 4g (8 tablets) per day.",
+                            "side_effects": "Common side effects may include liver damage, especially with high doses or long-term use."
+                        },
+                        "Ibuprofen": {
+                            "details": "Ibuprofen is a nonsteroidal anti-inflammatory drug (NSAID) used to relieve pain and reduce inflammation associated with osteoarthritis.",
+                            "dosage": "Take 200-400 mg every 4-6 hours as needed. Do not exceed 1200 mg per day.",
+                            "side_effects": "Common side effects may include upset stomach, heartburn, or dizziness."
+                        }
+                    },
+                    "details": "Maintain a healthy weight, exercise regularly, and use over-the-counter pain relievers as needed. Physical therapy may also be beneficial."
+                },
+                "rheumatoid arthritis": {
+                    "tablets": {
+                        "Methotrexate": {
+                            "details": "Methotrexate is a disease-modifying antirheumatic drug (DMARD) used to treat rheumatoid arthritis by reducing inflammation and slowing disease progression.",
+                            "dosage": "Take 7.5-25 mg once weekly.",
+                            "side_effects": "Common side effects may include nausea, vomiting, or liver toxicity."
+                        },
+                        "Prednisone": {
+                            "details": "Prednisone is a corticosteroid medication used to reduce inflammation and relieve pain in rheumatoid arthritis.",
+                            "dosage": "Take as directed by a doctor, usually starting with a higher dose that is gradually tapered down.",
+                            "side_effects": "Common side effects may include weight gain, mood changes, or increased risk of infection."
+                        }
+                    },
+                    "details": "Take medication as prescribed by a doctor. Engage in regular physical activity, eat a balanced diet, and get plenty of rest."
+                },
+                "asthma": {
+                    "tablets": {
+                        "Albuterol": {
+                            "details": "Albuterol is a short-acting beta agonist (SABA) used to relieve acute asthma symptoms and prevent exercise-induced bronchospasm.",
+                            "dosage": "Take 1-2 puffs every 4-6 hours as needed for acute symptoms. For prevention of exercise-induced bronchospasm, take 2 puffs 15-30 minutes before exercise.",
+                            "side_effects": "Common side effects may include tremor, nervousness, or palpitations."
+                        },
+                        "Fluticasone": {
+                            "details": "Fluticasone is an inhaled corticosteroid (ICS) used as a maintenance treatment for asthma to reduce airway inflammation and prevent asthma symptoms.",
+                            "dosage": "Take 2 puffs twice daily, with at least 12 hours between doses.",
+                            "side_effects": "Common side effects may include sore throat, hoarseness, or thrush (yeast infection in the mouth)."
+                        }
+                    },
+                    "details": "Take medications as prescribed by a doctor. Avoid triggers such as allergens and irritants, and have an asthma action plan in place."
+                },
+                "allergic rhinitis": {
+                    "tablets": {
+                        "Loratadine": {
+                            "details": "Loratadine is a non-drowsy antihistamine used to relieve symptoms of allergic rhinitis, such as sneezing, itching, and runny nose.",
+                            "dosage": "Take 10 mg once daily.",
+                            "side_effects": "Common side effects may include headache, dry mouth, or fatigue."
+                        },
+                        "Fluticasone nasal spray": {
+                            "details": "Fluticasone nasal spray is an intranasal corticosteroid used to relieve nasal congestion, sneezing, and runny nose associated with allergic rhinitis.",
+                            "dosage": "Spray 1-2 sprays into each nostril once daily.",
+                            "side_effects": "Common side effects may include nasal irritation, nosebleeds, or headache."
+                        }
+                    },
+                    "details": "Avoid allergens when possible. Use medications regularly during allergy season and consider allergen immunotherapy for long-term management."
+                }

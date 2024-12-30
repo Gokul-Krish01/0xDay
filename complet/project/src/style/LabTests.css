@@ -1,0 +1,138 @@
+/* LabTests.css */
+
+/* Container */
+.lab-tests-container {
+    max-width: 1024px;
+    margin: 0 auto;
+  }
+  
+  /* Add Lab Test Report Form */
+  .lab-test-form {
+    background-color: #ffffff;
+    border-radius: 0.5rem;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 1.5rem;
+    margin-bottom: 1.5rem;
+  }
+  
+  .lab-test-form h2 {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+  }
+  
+  .lab-test-form label {
+    display: block;
+    font-size: 0.9rem;
+    font-weight:bold;
+    color: #4b5563;
+  }
+  
+  .lab-test-form input[type="text"],
+  .lab-test-form input[type="file"] {
+    margin-top: 0.25rem;
+    display: block;
+    width: 100%;
+    padding: 0.5rem;
+    border-radius: 0.375rem;
+    border: 1px solid #d1d5db;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+  }
+  
+  .lab-test-form input:focus {
+    border-color: #3b82f6;
+    outline: none;
+    box-shadow: 0 0 0 2px rgba(59, 130, 246, 0.5);
+  }
+  
+  .lab-test-form button {
+    display: inline-flex;
+    align-items: center;
+    padding: 0.5rem 1rem;
+    border: none;
+    border-radius: 0.375rem;
+    font-size: 0.875rem;
+    font-weight: 500;
+    color: #ffffff;
+    background-color: #2563eb;
+    cursor: pointer;
+    transition: background-color 0.2s ease-in-out;
+  }
+  
+  .lab-test-form button:hover {
+    background-color: #1d4ed8;
+  }
+  
+  .lab-test-form button .icon {
+    margin-right: 0.5rem;
+  }
+  
+  /* Lab Test Reports Grid */
+  .lab-test-grid {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    gap: 1.5rem;
+  }
+  
+  @media (min-width: 768px) {
+    .lab-test-grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+  
+  /* Lab Test Card */
+  .lab-test-card {
+    background-color: #ffffff;
+    border-radius: 0.5rem;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+  }
+  
+  .lab-test-card img {
+    width: 100%;
+    height: 12rem;
+    object-fit: cover;
+  }
+  
+  .lab-test-card .card-content {
+    padding: 1rem;
+  }
+  
+  .lab-test-card .card-content p {
+    margin: 0;
+  }
+  
+  .lab-test-card .card-content .date {
+    font-size: 0.875rem;
+    color: #6b7280;
+  }
+  
+  .lab-test-card .card-content .description {
+    margin-top: 0.5rem;
+    font-size: 1rem;
+    color: #111827;
+  }
+  .delete-button {
+    background-color: #ff4d4d;
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    border-radius: 5px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+  }
+  
+  .delete-button:hover {
+    background-color: #e60000;
+  }
+  .lab-test-card {
+    position: relative;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    overflow: hidden;
+  }
+  
+  

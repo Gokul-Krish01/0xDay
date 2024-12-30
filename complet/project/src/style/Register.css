@@ -1,0 +1,139 @@
+.containers {
+  
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-image: url("../image/_image.png");
+  background-repeat: no-repeat;
+  background-size: cover; 
+  background-position: center; /* Centers the image */
+  height: 100vh;
+  max-height: 100vh;
+  }
+  
+  .card {
+    text-align: center;
+    background-color: #fff;
+    padding: 16px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .card h2 {
+    font-size: 1.5rem;
+    margin-bottom: 8px;
+  }
+  
+  .card p {
+    font-size: 1rem;
+    margin-bottom: 16px;
+  }
+  
+  .card span {
+    font-weight: bold;
+  }
+  
+  .form {
+    max-width: 700px;
+    background-color: #D9D9D9;
+    padding: 24px;
+    border-radius: 15px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin-left: -600px;
+  }
+  
+  .form-title  {
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 1.5rem;
+  }
+
+
+  .form-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px;
+  }
+  
+  .form-grid div {
+    display: flex;
+    flex-direction: column;
+  }
+
+  div input {
+    padding: 7px;
+    border-radius: 7px;
+  }
+  
+  label {
+    font-size: 1.0rem;
+    margin-bottom: 4px;
+    font-weight: 600;
+  }
+  
+  div DatePicker{
+    padding: 7px;
+    width: 100%;
+    max-width: 150px;
+  }
+
+
+  div textarea {
+    margin-top: 0px;
+    padding: 20px;
+    resize: vertical;
+  }
+  /* input, textarea, .react-datepicker-wrapper input {
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  } */
+ 
+  
+  button {
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 100%;
+  }
+  
+  .btn-primary {
+    margin-top: 20px;
+    background-color: #000;
+    color: #fff;
+    padding: 5px;
+  }
+  
+  .btn-primary:hover {
+    background-color: #81F0EC;
+    color: #fff;
+  }
+  
+  .btn-secondary {
+    margin-top: 10px;
+    background-color: #000;
+    color: #fff;
+    padding: 7px;
+  }
+  
+  .btn-secondary:hover {
+    background-color: #81F0EC;
+    color: #fff;
+  }
+  
+  .form-footer {
+    text-align: center;
+    margin-top: 16px;
+  }
+  
+  .form-footer a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .form-footer a:hover {
+    text-decoration: underline;
+  }
+  

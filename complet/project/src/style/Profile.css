@@ -1,0 +1,93 @@
+/* Profile.css */
+
+/* Container and Layout */
+.profile-container {
+  max-width: 1024px;
+  margin: 0 auto;
+  background-color:transparent;
+  border-radius: 0.5rem;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 2rem;
+}
+
+/* Header and Buttons */
+.profile-header {
+  text-align: center;
+  margin-bottom: 2rem;
+  position: relative;
+
+}
+
+.profile-edit-button {
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 0.5rem;
+  color: #4b5563;
+  transition: color 0.2s;
+  background-color: #fff;
+  max-width: 40px;
+}
+
+.profile-edit-button:hover {
+  color: #2563eb;
+}
+
+.profile-icon-wrapper {
+  display: inline-block;
+  padding: 0.75rem;
+  border-radius: 9999px;
+  background-color: #bfdbfe;
+  margin-bottom: 1rem;
+  
+}
+
+.profile-icon {
+  color: #2563eb;
+  width: 3rem;
+  height: 3rem;
+}
+
+.profile-title {
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+
+/* Cards */
+.card {
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 1rem;
+}
+
+.card-title {
+  font-size: 1.125rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid #1358e0;
+  background-color: skyblue;
+}
+
+.card-content {
+  margin-top: 1rem;
+}
+
+.card-item {
+  font-size: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+.card-item span {
+  font-weight: 500;
+}
+
+/* QR Code Section */
+.qr-section {
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 1rem;
+  margin-top: 2rem;
+}
